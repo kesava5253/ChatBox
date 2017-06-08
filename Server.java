@@ -17,7 +17,5 @@
     dout.flush();  
     }  
     din.close();  
-    s.close();  
-    ss.close();  
     }
-}  
+    }

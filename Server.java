@@ -17,6 +17,6 @@
     dout.flush();  
     }  
     din.close();  
-    s.close();  
-    ss.close();  
+    s.close();  //closing socket
+    ss.close();//closing serversocket  
     }}  

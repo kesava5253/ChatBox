@@ -17,7 +17,13 @@
     dout.flush();  
     }  
     din.close();  
+<<<<<<< HEAD
     s.close();  
     ss.close();  
     }
 }  
+=======
+    s.close();  //closing socket
+    ss.close();//closing serversocket  
+    }}  
+>>>>>>> 3ba3026183ee827e1115af894a67a6a60bd941d4
